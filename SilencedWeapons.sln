@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilencedWeapons", "SilencedWeapons\SilencedWeapons.csproj", "{1B8D83FC-1380-4995-8FBF-94F6DAC9A3F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8D83FC-1380-4995-8FBF-94F6DAC9A3F9}.Debug|x64.ActiveCfg = Debug|x64
+		{1B8D83FC-1380-4995-8FBF-94F6DAC9A3F9}.Debug|x64.Build.0 = Debug|x64
+		{1B8D83FC-1380-4995-8FBF-94F6DAC9A3F9}.Release|x64.ActiveCfg = Release|x64
+		{1B8D83FC-1380-4995-8FBF-94F6DAC9A3F9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24A1EF39-0F9A-43FD-854E-27D2718C6E95}
+	EndGlobalSection
+EndGlobal
